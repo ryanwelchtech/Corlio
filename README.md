@@ -18,10 +18,6 @@ No, it is not. I still have yet to implement the <a href="https://www.coinbase.c
 ![demo static](/Screenshots/iPhone81.png)
 ![demo static](/Screenshots/iPhone82.png)
 ![demo static](/Screenshots/iPhone83.png)
-### Corlio on iPhone SE
-![demo static](/Screenshots/iPhoneSE1.png)
-![demo static](/Screenshots/iPhoneSE2.png)
-![demo static](/Screenshots/iPhoneSE3.png)
 ## Functionality of Corlio
 In the screenshots above, the main screen is the screen with the data on the different coins. Portfolio allows one to multiply their amount of that coin by the value of the coin in USD to generate their value of their portfolio. The send portion is pretty straight forward with the input labels in the screenshots. Simply enter in the email address or wallet address, amount, type of coin, what the coin is being exchanged to, and the various credentials for the Coinbase and Poloniex APIs to enable sending of cryptocurrency.
 ## To-do
