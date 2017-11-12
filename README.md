@@ -10,20 +10,26 @@ It depends on whoever wants to fork it and make the necessary revisions to furth
 ## Is Corlio completed?
 No, it is not. I still have yet to implement the <a href="https://www.coinbase.com">Coinbase</a> and <a href="https://www.poloniex.com">Poloniex</a>APIs. I also have to figure out how to save the current input on the page. Currently, when text is inputted into the forms and the user navigates to a new page and goes back, the page is rendered as a new page. This is not useful, especially with the portfolio portion of the app. Like in Crypto-app, I was not able to implement pull to refresh. The current fix is to force close the app, delete it from the most recently opened app tray, and open the app again so that the prices are updated.
 ## Screenshots
+### Corlio on iPhone X
 ![demo static](/Screenshots/iPhoneX1.png)
 ![demo static](/Screenshots/iPhoneX2.png)
 ![demo static](/Screenshots/iPhoneX3.png)
+### Corlio on iPhone 8
 ![demo static](/Screenshots/iPhone81.png)
 ![demo static](/Screenshots/iPhone82.png)
 ![demo static](/Screenshots/iPhone83.png)
+### Corlio on iPhone SE
 ![demo static](/Screenshots/iPhoneSE1.png)
 ![demo static](/Screenshots/iPhoneSE2.png)
 ![demo static](/Screenshots/iPhoneSE3.png)
+## Functionality of Corlio
+In the screenshots above, the main screen is the screen with the data on the different coins. Portfolio allows one to multiply their amount of that coin by the value of the coin in USD to generate their value of their portfolio. The send portion is pretty straight forward with the input labels in the screenshots. Simply enter in the email address or wallet address, amount, type of coin, what the coin is being exchanged to, and the various credentials for the Coinbase and Poloniex APIs to enable sending of cryptocurrency.
 ## To-do
 - [x] Added App icons
 - [x] Changed the UI
 - [x] Made it cross platform
 - [x] Support for iPhone X
+- [x] Update README.md with screenshots
 - [ ] Correctly save the inputted information
 - [ ] Implement the Coinbase and Poloniex APIs
 - [ ] Login/Sign Up pages
