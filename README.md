@@ -10,15 +10,15 @@ It depends on whoever wants to fork it and make the necessary revisions to furth
 ## Is Corlio completed?
 No, it is not. I still have yet to implement the <a href="https://www.coinbase.com">Coinbase</a> and <a href="https://www.poloniex.com">Poloniex</a>APIs. I also have to figure out how to save the current input on the page. Currently, when text is inputted into the forms and the user navigates to a new page and goes back, the page is rendered as a new page. This is not useful, especially with the portfolio portion of the app. Like in Crypto-app, I was not able to implement pull to refresh. The current fix is to force close the app, delete it from the most recently opened app tray, and open the app again so that the prices are updated.
 ## Screenshots
-![demo static](/Screenshots/iPhoneX1)
-![demo static](/Screenshots/iPhoneX2)
-![demo static](/Screenshots/iPhoneX3)
-![demo static](/Screenshots/iPhone81)
-![demo static](/Screenshots/iPhone82)
-![demo static](/Screenshots/iPhone83)
-![demo static](/Screenshots/iPhoneSE1)
-![demo static](/Screenshots/iPhoneSE2)
-![demo static](/Screenshots/iPhoneSE3)
+![demo static](/Screenshots/iPhoneX1.png)
+![demo static](/Screenshots/iPhoneX2.png)
+![demo static](/Screenshots/iPhoneX3.png)
+![demo static](/Screenshots/iPhone81.png)
+![demo static](/Screenshots/iPhone82.png)
+![demo static](/Screenshots/iPhone83.png)
+![demo static](/Screenshots/iPhoneSE1.png)
+![demo static](/Screenshots/iPhoneSE2.png)
+![demo static](/Screenshots/iPhoneSE3.png)
 ## To-do
 - [x] Added App icons
 - [x] Changed the UI
