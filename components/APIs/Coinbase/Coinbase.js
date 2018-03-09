@@ -4,8 +4,8 @@ var crypto = require('crypto');
 var request = require('request');
 
 // Set these in your ENVironment, or enter them here with the actual string
-var apiKey = 'tOUHTOr6Uvn90aoW';
-var apiSecret = '0UainnMJaTp5qJfq8Oj0aa9dWOAtWqXo';
+var apiKey = 'APIKEY';
+var apiSecret = 'APISECRET';
 
 
 //get unix time in seconds
